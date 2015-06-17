@@ -16,7 +16,7 @@ For each record it is provided:
 * Its activity label. 
 * An identifier of the subject who carried out the experiment.
 
-## Cleaning & tranforming the data into a tidy dataset
+### Cleaning & tranforming the data into a tidy dataset
 
 * getting the lookup table for activity names (read.table)
 * getting the lookup table for feature names (read.table)
